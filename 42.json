@@ -23,6 +23,20 @@
       },
       {
          "pin" : "white",
+         "text" : "Skueqau YW-N c9-0\nThe Abyss",
+         "x" : 5700,
+         "y" : -144,
+         "z" : 58220
+      },
+      {
+         "pin" : "green",
+         "text" : "Skueqau WP-V D3-2\nAcheron",
+         "x" : 5736,
+         "y" : -164,
+         "z" : 58202
+      },
+      {
+         "pin" : "white",
          "text" : "SYS\nREG",
          "x" : 9,
          "y" : 0,
