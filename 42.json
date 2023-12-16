@@ -2,17 +2,17 @@
    "markers" : [
       {
          "pin" : "green",
-         "text" : "This is a sample marker!\nIt spans two lines of text.",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
+         "text" : "Hyphaups FY-Y c14-0\nLyra's Song",
+         "x" : 35977.65625,
+         "y" : 226.53125,
+         "z" : 8537.96875
       },
       {
-         "pin" : "carrier",
-         "text" : "This is a sample marker too!",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+         "pin" : "green",
+         "text" : "Hyphaups DN-A c14-0\nTenebrae",
+         "x" : 35990.6875,
+         "y" : 206.78125,
+         "z" : 8517.3125
       }
    ]
 }
