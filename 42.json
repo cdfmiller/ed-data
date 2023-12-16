@@ -16,48 +16,6 @@
       },
       {
          "pin" : "white",
-         "text" : "Skueqau QK-R c7-0\nFormorian Frontier",
-         "x" : 5724,
-         "y" : -133,
-         "z" : 58158
-      },
-      {
-         "pin" : "white",
-         "text" : "Skueqau YW-N c9-0\nThe Abyss",
-         "x" : 5700,
-         "y" : -144,
-         "z" : 58220
-      },
-      {
-         "pin" : "green",
-         "text" : "Skueqau WP-V D3-2\nAcheron",
-         "x" : 5736,
-         "y" : -164,
-         "z" : 58202
-      },
-      {
-         "pin" : "white",
-         "text" : "Eembaists VT-I d9-5\nTrojan Belt",
-         "x" : 25145,
-         "y" : 135,
-         "z" : 30492
-      },
-      {
-         "pin" : "green",
-         "text" : "Eembaists XO-I d9-14\nSagittarius-Carina Arm",
-         "x" : 25178,
-         "y" : 115,
-         "z" : 30473
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 8,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
          "text" : "SYS\nREG",
          "x" : 9,
          "y" : 0,
