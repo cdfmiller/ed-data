@@ -37,6 +37,20 @@
       },
       {
          "pin" : "white",
+         "text" : "Eembaists VT-I d9-5\nTrojan Belt",
+         "x" : 25145,
+         "y" : 135,
+         "z" : 30492
+      },
+      {
+         "pin" : "green",
+         "text" : "Eembaists XO-I d9-14\nSagittarius-Carina Arm",
+         "x" : 25178,
+         "y" : 115,
+         "z" : 30473
+      },
+      {
+         "pin" : "white",
          "text" : "SYS\nREG",
          "x" : 9,
          "y" : 0,
