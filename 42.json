@@ -16,6 +16,13 @@
       },
       {
          "pin" : "white",
+         "text" : "Skueqau QK-R c7-0\nFormorian Frontier",
+         "x" : 5724,
+         "y" : -133,
+         "z" : 58158
+      },
+      {
+         "pin" : "white",
          "text" : "SYS\nREG",
          "x" : 9,
          "y" : 0,
