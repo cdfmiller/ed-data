@@ -2,7 +2,7 @@
    "markers" : [
       {
          "pin" : "white",
-         "text" : "Hyphaups DN-A c14-0\nTenebrae",
+         "text" : "https://www.edsm.net/en/system/id/_/name/Hyphaups+DN-A+c14-0\nTenebrae",
          "x" : 35991,
          "y" : 207,
          "z" : 8517
@@ -30,7 +30,7 @@
       },
       {
          "pin" : "green",
-         "text" : "Skueqau WP-V D3-2\nAcheron",
+         "text" : "Skueqau WP-V d3-2\nAcheron",
          "x" : 5736,
          "y" : -164,
          "z" : 58202
@@ -51,238 +51,245 @@
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 9,
-         "y" : 0,
-         "z" : 0
+         "text" : "Dryiqu YD-F c14\nArcadian Stream",
+         "x" : 3566,
+         "y" : -211,
+         "z" : 39908
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 10,
-         "y" : 0,
-         "z" : 0
+         "text" : "Preia Flyao RM-C c29-7\nIzanami",
+         "x" : 3506,
+         "y" : -207,
+         "z" : 39886
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 11,
-         "y" : 0,
-         "z" : 0
+         "text" : "Dryiqu AZ-E c0\nRyker's Hope",
+         "x" : 3541,
+         "y" : -229,
+         "z" : 39898
+      },
+      {
+         "pin" : "green",
+         "text" : "Dryiqu NM-C d5\nNewton's Vault",
+         "x" : 3566,
+         "y" : -254,
+         "z" : 39906
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 12,
-         "y" : 0,
-         "z" : 0
+         "text" : "Byoomi WE-Z e2225\nEmpyrean Straits",
+         "x" : -2185,
+         "y" : -465,
+         "z" : 24782
+      },
+      {
+         "pin" : "green",
+         "text" : "Byoomi XP-W d2-5273\nGalactic Centre",
+         "x" : -2156,
+         "y" : -464,
+         "z" : 24808
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 13,
-         "y" : 0,
-         "z" : 0
+         "text" : "Byoomi WE-Z e2744\nOdin's Hold",
+         "x" : -2171,
+         "y" : -464,
+         "z" : 24819
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 14,
-         "y" : 0,
-         "z" : 0
+         "text" : "Nuekau NX-T e3-150\nInner Scutum-Centaurus Arm",
+         "x" : -1381,
+         "y" : -430,
+         "z" : 13681
+      },
+      {
+         "pin" : "green",
+         "text" : "Nuekau IH-A b32-8\nNorma Arm",
+         "x" : -1372,
+         "y" : -426,
+         "z" : 13709
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 15,
-         "y" : 0,
-         "z" : 0
+         "text" : "Nuekau ZZ-N d7-706\nNorma Expanse",
+         "x" : -1357,
+         "y" : -419,
+         "z" : 13695
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 16,
-         "y" : 0,
-         "z" : 0
+         "text" : "Dryignaa RL-J d10-2\nThe Veils",
+         "x" : 23233,
+         "y" : -101,
+         "z" : 40785
+      },
+      {
+         "pin" : "green",
+         "text" : "Dryignaa GI-G b44-0\nMare Somnia",
+         "x" : 23259,
+         "y" : -111,
+         "z" : 40836
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 17,
-         "y" : 0,
-         "z" : 0
+         "text" : "Oombadst QU-W b35-0\nHieronymous Delta",
+         "x" : -17169,
+         "y" : -52,
+         "z" : 47066
+      },
+      {
+         "pin" : "green",
+         "text" : "Oombadst QZ-M d8-6\nThe Conduit",
+         "x" : -17136,
+         "y" : -39,
+         "z" : 47030
+      },
+      {
+         "pin" : "green",
+         "text" : "Hypuejio UE-D b30-2\nInner Orion-Perseus Conflux",
+         "x" : -16222,
+         "y" : -502,
+         "z" : 27736
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 18,
-         "y" : 0,
-         "z" : 0
+         "text" : "Hypuejio RU-N d7-30\nOuter Orion-Perseus Conflux",
+         "x" : -16237,
+         "y" : -498,
+         "z" : 27770
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 19,
-         "y" : 0,
-         "z" : 0
+         "text" : "Eorgh Flyiae BL-K c10-3\nOrion-Cygnus Arn",
+         "x" : -20868,
+         "y" : -480,
+         "z" : 17331
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 20,
-         "y" : 0,
-         "z" : 0
+         "text" : "Eorgh Flyiae NT-P b23-0\nPerseus Arm",
+         "x" : -20881,
+         "y" : -485,
+         "z" : 173600
+      },
+      {
+         "pin" : "green",
+         "text" : "Eorgh Flyiae FR-I c11-0\nVulcan Gate",
+         "x" : -20902,
+         "y" : -500,
+         "z" : 17340
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 21,
-         "y" : 0,
-         "z" : 0
+         "text" : "Bya Thoi QK-C c27-4\nElysian Shore",
+         "x" : -9468,
+         "y" : 333,
+         "z" : 3946
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 22,
-         "y" : 0,
-         "z" : 0
+         "text" : "Bya Thoi GC-C d13-10\nInner Orion Spur",
+         "x" : -9432,
+         "y" : 337,
+         "z" : 3925
+      },
+      {
+         "pin" : "Temple",
+         "text" : "Bya Thoi GC-C d13-3\nTemple",
+         "x" : -9442,
+         "y" : 327,
+         "z" : 3951
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 23,
-         "y" : 0,
-         "z" : 0
+         "text" : "Droett OD-B d4\nDryman's Point",
+         "x" : 25611,
+         "y" : 459,
+         "z" : 15652
+      },
+      {
+         "pin" : "green",
+         "text" : "Droett OD-B d8\nHawking's Gap",
+         "x" : 25594,
+         "y" : 473,
+         "z" : 15616
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 24,
-         "y" : 0,
-         "z" : 0
+         "text" : "Wregoo AZ-S d3-4\nAchilles's Altar",
+         "x" : 12296,
+         "y" : 25,
+         "z" : -682
+      },
+      {
+         "pin" : "green",
+         "text" : "Wregoo EF-R d4-2\nOuter Orion Spur",
+         "x" : 12287,
+         "y" : 28,
+         "z" : -617
       },
       {
          "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 25,
-         "y" : 0,
-         "z" : 0
+         "text" : "Wregoo AZ-S d3-9\nSanguineous Rim",
+         "x" : 12281,
+         "y" : 19,
+         "z" : -675
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 26,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 27,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 28,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 29,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 30,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 31,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 32,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 33,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
-         "x" : 34,
-         "y" : 0,
-         "z" : 0
-      },
-      {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nKepler's Crest",
          "x" : 35,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nXibalba",
          "x" : 36,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nErrant Marches",
          "x" : 37,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nThe Formidine Rift",
          "x" : 38,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nAquila's Halo",
          "x" : 39,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nOuter Arm",
          "x" : 40,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nOuter Scutum-Centaurus Arm",
          "x" : 41,
          "y" : 0,
          "z" : 0
       },
       {
-         "pin" : "white",
-         "text" : "SYS\nREG",
+         "pin" : "red",
+         "text" : "SYS\nThe Void",
          "x" : 42,
          "y" : 0,
          "z" : 0
