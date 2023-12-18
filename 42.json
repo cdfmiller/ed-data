@@ -291,8 +291,8 @@
          "pin" : "red",
          "text" : "Placeholder\nThe Void",
          "x" : -36000,
-         "y" : 35000,
-         "z" : 0
+         "y" : 0,
+         "z" : 36000
       }
    ]
 }
