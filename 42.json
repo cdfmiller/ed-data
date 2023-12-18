@@ -241,58 +241,58 @@
       {
          "pin" : "red",
          "text" : "Placeholder\nKepler's Crest",
-         "x" : 7100,
+         "x" : 19100,
          "y" : 0,
-         "z" : -13000
+         "z" : -9500
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nXibalba",
-         "x" : 25000,
+         "x" : 19150,
          "y" : 0,
-         "z" : -8500
+         "z" : -9500
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nErrant Marches",
-         "x" : -27000,
+         "x" : -20800,
          "y" : 0,
-         "z" : 1200
+         "z" : -3450
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nThe Formidine Rift",
-         "x" : -13000,
+         "x" : -20700,
          "y" : 0,
-         "z" : -10800
+         "z" : -3400
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nAquila's Halo",
-         "x" : -36700,
+         "x" : -36200,
          "y" : 0,
-         "z" : 24500
+         "z" : 28800
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nOuter Arm",
-         "x" : -30300,
+         "x" : -35200,
          "y" : 0,
-         "z" : 30000
+         "z" : 28800
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nOuter Scutum-Centaurus Arm",
-         "x" : -28700,
-         "y" : 0,
-         "z" : 48000
+         "x" : -32900,
+         "y" : -50,
+         "z" : 40500
       },
       {
          "pin" : "red",
          "text" : "Placeholder\nThe Void",
-         "x" : -36000,
-         "y" : 0,
-         "z" : 36000
+         "x" : -32800,
+         "y" : -50,
+         "z" : 40500
       }
    ]
 }
