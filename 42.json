@@ -2,7 +2,7 @@
    "markers" : [
       {
          "pin" : "white",
-         "text" : "https://www.edsm.net/en/system/id/_/name/Hyphaups+DN-A+c14-0\nTenebrae",
+         "text" : "Hyphaups DN-A c14-0\nTenebrae",
          "x" : 35991,
          "y" : 207,
          "z" : 8517
@@ -240,58 +240,58 @@
       },
       {
          "pin" : "red",
-         "text" : "SYS\nKepler's Crest",
-         "x" : 35,
+         "text" : "Placeholder\nKepler's Crest",
+         "x" : 7100,
          "y" : 0,
-         "z" : 0
+         "z" : -13000
       },
       {
          "pin" : "red",
-         "text" : "SYS\nXibalba",
-         "x" : 36,
+         "text" : "Placeholder\nXibalba",
+         "x" : 25000,
          "y" : 0,
-         "z" : 0
+         "z" : -8500
       },
       {
          "pin" : "red",
-         "text" : "SYS\nErrant Marches",
-         "x" : 37,
+         "text" : "Placeholder\nErrant Marches",
+         "x" : -27000,
          "y" : 0,
-         "z" : 0
+         "z" : 1200
       },
       {
          "pin" : "red",
-         "text" : "SYS\nThe Formidine Rift",
-         "x" : 38,
+         "text" : "Placeholder\nThe Formidine Rift",
+         "x" : -13000,
          "y" : 0,
-         "z" : 0
+         "z" : -10800
       },
       {
          "pin" : "red",
-         "text" : "SYS\nAquila's Halo",
-         "x" : 39,
+         "text" : "Placeholder\nAquila's Halo",
+         "x" : -36700,
          "y" : 0,
-         "z" : 0
+         "z" : 24500
       },
       {
          "pin" : "red",
-         "text" : "SYS\nOuter Arm",
-         "x" : 40,
+         "text" : "Placeholder\nOuter Arm",
+         "x" : -30300,
          "y" : 0,
-         "z" : 0
+         "z" : 30000
       },
       {
          "pin" : "red",
-         "text" : "SYS\nOuter Scutum-Centaurus Arm",
-         "x" : 41,
+         "text" : "Placeholder\nOuter Scutum-Centaurus Arm",
+         "x" : -28700,
          "y" : 0,
-         "z" : 0
+         "z" : 48000
       },
       {
          "pin" : "red",
-         "text" : "SYS\nThe Void",
-         "x" : 42,
-         "y" : 0,
+         "text" : "Placeholder\nThe Void",
+         "x" : -36000,
+         "y" : 35000,
          "z" : 0
       }
    ]
