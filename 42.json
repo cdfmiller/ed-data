@@ -267,18 +267,18 @@
          "z" : -3400
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nAquila's Halo",
-         "x" : -36200,
-         "y" : 0,
-         "z" : 28800
+         "pin" : "green",
+         "text" : "Xothae GA-P c19-0\nAquila's Halo",
+         "x" : -36122,
+         "y" : -5,
+         "z" : 30506
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nOuter Arm",
-         "x" : -35200,
-         "y" : 0,
-         "z" : 28800
+         "pin" : "white",
+         "text" : "Eoch Greau XF-L d9-1\nOuter Arm",
+         "x" : -36104,
+         "y" : -46,
+         "z" : 30528
       },
       {
          "pin" : "green",
@@ -288,7 +288,7 @@
          "z" : 40308
       },
       {
-         "pin" : "green",
+         "pin" : "white",
          "text" : "Schiqeou LE-K c8-0\nThe Void",
          "x" : -32261,
          "y" : -22,
