@@ -281,18 +281,18 @@
          "z" : 28800
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nOuter Scutum-Centaurus Arm",
-         "x" : -32900,
-         "y" : -50,
-         "z" : 40500
+         "pin" : "green",
+         "text" : "Schiqeou HF-R d4-2\nOuter Scutum-Centaurus Arm",
+         "x" : -32268,
+         "y" : 1,
+         "z" : 40308
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nThe Void",
-         "x" : -32800,
-         "y" : -50,
-         "z" : 40500
+         "pin" : "green",
+         "text" : "Schiqeou LE-K c8-0\nThe Void",
+         "x" : -32261,
+         "y" : -22,
+         "z" : 40256
       }
    ]
 }
