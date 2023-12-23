@@ -268,17 +268,17 @@
       },
       {
          "pin" : "green",
-         "text" : "Xothae GA-P c19-0\nAquila's Halo",
-         "x" : -36122,
-         "y" : -5,
-         "z" : 30506
+         "text" : "Yepoi IA-Y c14-0\nAquila's Halo",
+         "x" : -36220,
+         "y" : 17,
+         "z" : 23896
       },
       {
          "pin" : "white",
-         "text" : "Eoch Greau XF-L d9-1\nOuter Arm",
-         "x" : -36104,
-         "y" : -46,
-         "z" : 30528
+         "text" : "Yepoi GP-Z c13-0\nOuter Arm",
+         "x" : -36225,
+         "y" : -22,
+         "z" : 23858
       },
       {
          "pin" : "green",
