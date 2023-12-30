@@ -253,18 +253,18 @@
          "z" : -9500
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nErrant Marches",
-         "x" : -20800,
-         "y" : 0,
-         "z" : -3450
+         "pin" : "white",
+         "text" : "Phooe Airg AC-D d12-4\nErrant Marches",
+         "x" : -15376,
+         "y" : -20,
+         "z" : -3834
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nThe Formidine Rift",
-         "x" : -20700,
-         "y" : 0,
-         "z" : -3400
+         "pin" : "green",
+         "text" : "Phooe Airg BC-D d12-0\nThe Formidine Rift",
+         "x" : -15329,
+         "y" : -18,
+         "z" : -3856
       },
       {
          "pin" : "green",
