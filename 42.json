@@ -239,18 +239,18 @@
          "z" : -675
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nKepler's Crest",
-         "x" : 19100,
-         "y" : 0,
-         "z" : -9500
+         "pin" : "white",
+         "text" : "Dryaea Aewsy GR-W d1-4\nKepler's Crest",
+         "x" : 20449,
+         "y" : 116,
+         "z" : -12399
       },
       {
-         "pin" : "red",
-         "text" : "Placeholder\nXibalba",
-         "x" : 19150,
-         "y" : 0,
-         "z" : -9500
+         "pin" : "green",
+         "text" : "Dryaea Aewsy QY-S d3-4\nXibalba",
+         "x" : 20465,
+         "y" : 30,
+         "z" : -12226
       },
       {
          "pin" : "white",
