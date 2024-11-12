@@ -1,1 +1,67 @@
-Placeholder
+{
+   "markers" : [
+      {
+         "pin" : "green",
+         "text" : "Kappa Reticuli",
+         "x" : 49,
+         "y" : -51,
+         "z" : 7
+      },
+      {
+         "pin" : "white",
+         "text" : "Drojia YW-B d13-4",
+         "x" : 4282,
+         "y" : 343,
+         "z" : -14
+      },
+      {
+         "pin" : "white",
+         "text" : "Graea Hypue AL-X d1-48",
+         "x" : -1125,
+         "y" : -848,
+         "z" : 13188
+      },
+      {
+         "pin" : "white",
+         "text" : "Eorl Auwsy SY-Z d13-3468\nGuardian Ruins - Teal Nebula",
+         "x" : 4948,
+         "y" : 165,
+         "z" : 20653
+      },
+      {
+         "pin" : "white",
+         "text" : "Hypuae Scrua FL-W d2-90\nClawed Hand Nebula",
+         "x" : 825,
+         "y" : 2024,
+         "z" : 22254
+      },
+      {
+         "pin" : "white",
+         "text" : "Eorm Phyloi OY-Z d37\nAether Nebula",
+         "x" : 6548,
+         "y" : 2043,
+         "z" : 27246
+      },
+      {
+         "pin" : "white",
+         "text" : "Eorm Phyloi OY-Z d37\nVanishing Inferno",
+         "x" : -118,
+         "y" : -1880,
+         "z" : 30848
+      },
+      {
+         "pin" : "white",
+         "text" : "Scheau Pri FW-N e6-43\nHendrix Nebula",
+         "x" : -5647,
+         "y" : -989,
+         "z" : 25719
+      },
+      {
+         "pin" : "red",
+         "text" : "Colonia",
+         "x" : -9530,
+         "y" : -910,
+         "z" : 19808
+      }
+   ]
+}
