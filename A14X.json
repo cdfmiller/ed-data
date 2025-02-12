@@ -15,11 +15,18 @@
          "z" : 3960
       },
       {
-         "pin" : "white",
+         "pin" : "yellow",
          "text" : "WP3: Graea Hypue AL-X d1-48",
          "x" : -1125,
          "y" : -848,
          "z" : 13188
+      },
+      {
+         "pin" : "purple",
+         "text" : "Gria Phreia XO-Z e956\nApollo 14 Monument",
+         "x" : 1071,
+         "y" : -1319,
+         "z" : 15880
       },
       {
          "pin" : "white",
