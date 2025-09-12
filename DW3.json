@@ -2,21 +2,21 @@
    "markers" : [
       {
          "pin" : "white",
-         "text" : "#1 Rendezvous Point",
+         "text" : "1 Rendezvous Point",
          "x" : 6026,
          "y" : -5,
          "z" : 42548
       },
       {
          "pin" : "white",
-         "text" : "#2 Auphails QI-B e12 (Viruna)",
+         "text" : "2 Auphails QI-B e12 (Viruna)",
          "x" : 3264,
          "y" : -119,
          "z" : 50293
       },
       {
          "pin" : "white",
-         "text" : "#3 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "text" : "3 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
          "x" : -2271,
          "y" : -63,
          "z" : 53714
