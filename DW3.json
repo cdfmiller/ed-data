@@ -1,5 +1,47 @@
 {
    "markers" : [
+		{
+         "pin" : "Purple",
+         "text" : "?Acheron (Science B)\nSyrivu GG-X e1-0 (River of Woe)",
+         "x" : 16276,
+         "y" : 620,
+         "z" : 54316
+		},
+		{
+         "pin" : "Purple",
+         "text" : "?Acheron (Science B)\nCritchao LT-O d7-3",
+         "x" : 14783,
+         "y" : -102,
+         "z" : 54619
+		},
+		{
+         "pin" : "Purple",
+         "text" : "?Acheron (Science B)\nSyrivu MK-C d14-0",
+         "x" : 15945,
+         "y" : 1242,
+         "z" : 55203
+		},
+		{
+         "pin" : "green",
+         "text" : "The Abyss (Science A)\nEictach KU-D d13-4 (Eclipsion Halo)",
+         "x" : 645,
+         "y" : -59,
+         "z" : 64072
+      },
+      {
+         "pin" : "green",
+         "text" : "Empyrean Straits (Science A)\nSchee Prau AA-A H230 (Dark Tides)",
+         "x" : 5151,
+         "y" : -1280,
+         "z" : 25028
+      },
+      {
+         "pin" : "blue",
+         "text" : "Rykers Hope (Science B)\nChraisuae WP-X e1-1232 (Stellar Trinity)",
+         "x" : 2351,
+         "y" : -1549,
+         "z" : 31342
+      },
       {
          "pin" : "white",
          "text" : "1 Rendezvous Point",
@@ -118,27 +160,6 @@
          "x" : 25,
          "y" : -21,
          "z" : 25900
-      },
-      {
-         "pin" : "green",
-         "text" : "The Abyss (Science A)\nEictach KU-D d13-4 (Eclipsion Halo)",
-         "x" : 645,
-         "y" : -59,
-         "z" : 64072
-      },
-      {
-         "pin" : "green",
-         "text" : "Empyrean Straits (Science A)\nSchee Prau AA-A H230 (Dark Tides)",
-         "x" : 5151,
-         "y" : -1280,
-         "z" : 25028
-      },
-      {
-         "pin" : "blue",
-         "text" : "Rykers Hope (Science B)\nChraisuae WP-X e1-1232 (Stellar Trinity)",
-         "x" : 2351,
-         "y" : -1549,
-         "z" : 31342
       }
    ],
    "lines" : [
