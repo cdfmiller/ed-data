@@ -1,5 +1,24 @@
 {
    "markers" : [
+         "pin" : "blue",
+         "text" : "Arcadian Stream (Science B)\nXXX",
+         "x" : 0,
+         "y" : 0,
+         "z" : 0
+		},
+		{
+         "pin" : "green",
+         "text" : "Trojan Belt (Science A)\nXXX",
+         "x" : 0,
+         "y" : 0,
+         "z" : 0
+        },
+         "pin" : "blue",
+         "text" : "Sagittarius-Carina Arm (Science B)\nDryeia Byoea AA-A h47",
+         "x" : 25585,
+         "y" : -841,
+         "z" : 31657
+		},
 		{
          "pin" : "green",
          "text" : "Mare Somnia (Science A)\nBlia Aod QE-Q e5-0 (The Minions of Morpheus)",
