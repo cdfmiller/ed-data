@@ -2,6 +2,20 @@
    "markers" : [
 		{
          "pin" : "green",
+         "text" : "Mare Somnia (Science A)\nBlia Aod QE-Q e5-0 (The Minions of Morpheus)",
+         "x" : 25598,
+         "y" : 722,
+         "z" : 43507
+        },
+		{
+         "pin" : "blue",
+         "text" : "The Veils (Science B)\nPrue Pruae AA-A h29",
+         "x" : 16866,
+         "y" : -236,
+         "z" : 42432
+		},
+		{
+         "pin" : "green",
          "text" : "Formorian Frontier (Science A)\nDrootuia AA-A g1",
          "x" : 3934,
          "y" : -688,
