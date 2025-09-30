@@ -1,6 +1,13 @@
 {
    "markers" : [
 		{
+         "pin" : "green",
+         "text" : "Formorian Frontier (Science A)\nDrootuia AA-A g1",
+         "x" : 3934,
+         "y" : -688,
+         "z" : 51625
+        },
+		{
          "pin" : "blue",
          "text" : "Acheron (Science B)\nSlaiyi DL-P e5-1",
          "x" : 10995,
