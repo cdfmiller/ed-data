@@ -1,75 +1,5 @@
 {
    "markers" : [
-	    {
-         "pin" : "blue",
-         "text" : "Arcadian Stream (Science B)\nCloomaa EA-A e70",
-         "x" : 9674,
-         "y" : 73,
-         "z" : 24646
-		},
-		{
-         "pin" : "green",
-         "text" : "Trojan Belt (Science A)\nSpase ER-B c14-6",
-         "x" : 18598,
-         "y" : -842,
-         "z" : 32819
-        },
-		{
-         "pin" : "blue",
-         "text" : "Sagittarius-Carina Arm (Science B)\nDryeia Byoea AA-A h47",
-         "x" : 25585,
-         "y" : -841,
-         "z" : 31657
-		},
-		{
-         "pin" : "green",
-         "text" : "Mare Somnia (Science A)\nBlia Aod QE-Q e5-0 (The Minions of Morpheus)",
-         "x" : 25598,
-         "y" : 722,
-         "z" : 43507
-        },
-		{
-         "pin" : "blue",
-         "text" : "The Veils (Science B)\nPrue Pruae AA-A h29",
-         "x" : 16866,
-         "y" : -236,
-         "z" : 42432
-		},
-		{
-         "pin" : "green",
-         "text" : "Formorian Frontier (Science A)\nDrootuia AA-A g1",
-         "x" : 3934,
-         "y" : -688,
-         "z" : 51625
-        },
-		{
-         "pin" : "blue",
-         "text" : "Acheron (Science B)\nSlaiyi DL-P e5-1",
-         "x" : 10995,
-         "y" : 53,
-         "z" : 58839
-		},
-		{
-         "pin" : "green",
-         "text" : "The Abyss (Science A)\nFleckeae SZ-O e6-0",
-         "x" : 645,
-         "y" : -59,
-         "z" : 64072
-      },
-      {
-         "pin" : "green",
-         "text" : "Empyrean Straits (Science A)\nSchee Prau AA-A H230 (Dark Tides)",
-         "x" : 5151,
-         "y" : -1280,
-         "z" : 25028
-      },
-      {
-         "pin" : "blue",
-         "text" : "Rykers Hope (Science B)\nChraisuae WP-X e1-1232 (Stellar Trinity)",
-         "x" : 2351,
-         "y" : -1549,
-         "z" : 31342
-      },
       {
          "pin" : "white",
          "text" : "1 Rendezvous Point",
@@ -156,10 +86,10 @@
       },
       {
          "pin" : "white",
-         "text" : "13 Eachaiv AA-A h111 (Starburst Sunrise)",
-         "x" : 3752,
-         "y" : -1916,
-         "z" : 24029
+         "text" : "13 Eorl Auwsy WB-V a114-1 (Teal Nebula)",
+         "x" : 4935,
+         "y" : 178,
+         "z" : 20646
       },
       {
          "pin" : "white",
@@ -174,6 +104,76 @@
          "x" : 25,
          "y" : -21,
          "z" : 25900
+      },
+	    {
+         "pin" : "blue",
+         "text" : "Arcadian Stream (Science B)\nCloomaa EA-A e70",
+         "x" : 9674,
+         "y" : 73,
+         "z" : 24646
+		},
+		{
+         "pin" : "green",
+         "text" : "Trojan Belt (Science A)\nSpase ER-B c14-6",
+         "x" : 18598,
+         "y" : -842,
+         "z" : 32819
+        },
+		{
+         "pin" : "blue",
+         "text" : "Sagittarius-Carina Arm (Science B)\nDryeia Byoea AA-A h47",
+         "x" : 25585,
+         "y" : -841,
+         "z" : 31657
+		},
+		{
+         "pin" : "green",
+         "text" : "Mare Somnia (Science A)\nBlia Aod QE-Q e5-0 (The Minions of Morpheus)",
+         "x" : 25598,
+         "y" : 722,
+         "z" : 43507
+        },
+		{
+         "pin" : "blue",
+         "text" : "The Veils (Science B)\nPrue Pruae AA-A h29",
+         "x" : 16866,
+         "y" : -236,
+         "z" : 42432
+		},
+		{
+         "pin" : "green",
+         "text" : "Formorian Frontier (Science A)\nDrootuia AA-A g1",
+         "x" : 3934,
+         "y" : -688,
+         "z" : 51625
+        },
+		{
+         "pin" : "blue",
+         "text" : "Acheron (Science B)\nSlaiyi DL-P e5-1",
+         "x" : 10995,
+         "y" : 53,
+         "z" : 58839
+		},
+		{
+         "pin" : "green",
+         "text" : "The Abyss (Science A)\nFleckeae SZ-O e6-0",
+         "x" : 645,
+         "y" : -59,
+         "z" : 64072
+      },
+      {
+         "pin" : "green",
+         "text" : "Empyrean Straits (Science A)\nSchee Prau AA-A H230 (Dark Tides)",
+         "x" : 5151,
+         "y" : -1280,
+         "z" : 25028
+      },
+      {
+         "pin" : "blue",
+         "text" : "Rykers Hope (Science B)\nChraisuae WP-X e1-1232 (Stellar Trinity)",
+         "x" : 2351,
+         "y" : -1549,
+         "z" : 31342
       }
    ],
    "lines" : [
