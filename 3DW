@@ -1,0 +1,307 @@
+{
+   "markers" : [
+	    {
+         "pin" : "blue",
+         "text" : "Arcadian Stream (Science B)\nCloomaa EA-A e70",
+         "x" : 9674,
+         "y" : 73,
+         "z" : 24646
+		},
+		{
+         "pin" : "green",
+         "text" : "Trojan Belt (Science A)\nSpase ER-B c14-6",
+         "x" : 18598,
+         "y" : -842,
+         "z" : 32819
+        },
+		{
+         "pin" : "blue",
+         "text" : "Sagittarius-Carina Arm (Science B)\nDryeia Byoea AA-A h47",
+         "x" : 25585,
+         "y" : -841,
+         "z" : 31657
+		},
+		{
+         "pin" : "green",
+         "text" : "Mare Somnia (Science A)\nBlia Aod QE-Q e5-0 (The Minions of Morpheus)",
+         "x" : 25598,
+         "y" : 722,
+         "z" : 43507
+        },
+		{
+         "pin" : "blue",
+         "text" : "The Veils (Science B)\nPrue Pruae AA-A h29",
+         "x" : 16866,
+         "y" : -236,
+         "z" : 42432
+		},
+		{
+         "pin" : "green",
+         "text" : "Formorian Frontier (Science A)\nDrootuia AA-A g1",
+         "x" : 3934,
+         "y" : -688,
+         "z" : 51625
+        },
+		{
+         "pin" : "blue",
+         "text" : "Acheron (Science B)\nSlaiyi DL-P e5-1",
+         "x" : 10995,
+         "y" : 53,
+         "z" : 58839
+		},
+		{
+         "pin" : "green",
+         "text" : "The Abyss (Science A)\nFleckeae SZ-O e6-0",
+         "x" : 645,
+         "y" : -59,
+         "z" : 64072
+      },
+      {
+         "pin" : "green",
+         "text" : "Empyrean Straits (Science A)\nSchee Prau AA-A H230 (Dark Tides)",
+         "x" : 5151,
+         "y" : -1280,
+         "z" : 25028
+      },
+      {
+         "pin" : "blue",
+         "text" : "Rykers Hope (Science B)\nChraisuae WP-X e1-1232 (Stellar Trinity)",
+         "x" : 2351,
+         "y" : -1549,
+         "z" : 31342
+      },
+      {
+         "pin" : "white",
+         "text" : "1 Rendezvous Point",
+         "x" : 6026,
+         "y" : -5,
+         "z" : 42548
+      },
+      {
+         "pin" : "white",
+         "text" : "2 Thuecheae MT-Q e5-8 (The Seldowitch Nebula)",
+         "x" : -2271,
+         "y" : -63,
+         "z" : 53714
+      },
+      {
+         "pin" : "white",
+         "text" : "3 Beagle Point (DSSA Distant Worlds 'Endeavour')",
+         "x" : -1112,
+         "y" : -134,
+         "z" : 65270
+      },
+      {
+         "pin" : "white",
+         "text" : "4 Eictach KU-D d13-4 (Eclipsion Halo)",
+         "x" : 8113,
+         "y" : -231,
+         "z" : 60246
+      },
+      {
+         "pin" : "white",
+         "text" : "5 Blo Chroa ZE-R e4-6 (Glaciem Nebula)",
+         "x" : 5966,
+         "y" : 78,
+         "z" : 53517
+      },
+      {
+         "pin" : "white",
+         "text" : "6 Byua Auwsy EL-P e5-31 (Veil's Ember)",
+         "x" : 10002,
+         "y" : 66,
+         "z" : 47304
+      },
+      {
+         "pin" : "white",
+         "text" : "7 Byae Aowsy GR-N d6-52 (Guardian of the Twins)",
+         "x" : 14408,
+         "y" : 18,
+         "z" : 44313
+      },
+      {
+         "pin" : "white",
+         "text" : "8 Roefoo ZE-H d10-0 (Khazad-dûm)",
+         "x" : 21481,
+         "y" : -1005,
+         "z" : 43369
+      },
+      {
+         "pin" : "white",
+         "text" : "9 Phreia Byio PT-V c17-0 (Phlegethon's Sentinels)",
+         "x" : 23978,
+         "y" : -620,
+         "z" : 36818
+      },
+      {
+         "pin" : "white",
+         "text" : "10 Phrooe Blou AA-A h62 (Scylla and Charybdis)",
+         "x" : 18972,
+         "y" : -73,
+         "z" : 34279
+      },
+      {
+         "pin" : "white",
+         "text" : "11 Hypua Pruae ZR-H d11-59 (Starlit Dreamscape)",
+         "x" : 18451,
+         "y" : -95,
+         "z" : 25533
+      },
+      {
+         "pin" : "white",
+         "text" : "12 Phrua Flyuae ZE-A e7 (Syrenthis Verge)",
+         "x" : 11664,
+         "y" : -1072,
+         "z" : 23311
+      },
+      {
+         "pin" : "white",
+         "text" : "13 Eachaiv AA-A h111 (Starburst Sunrise)",
+         "x" : 3752,
+         "y" : -1916,
+         "z" : 24029
+      },
+      {
+         "pin" : "white",
+         "text" : "14 Huemo AA-A h256 (Isegrim's View)",
+         "x" : 2566,
+         "y" : -1997,
+         "z" : 26383
+      },
+      {
+         "pin" : "white",
+         "text" : "15 Sagittarius A*",
+         "x" : 25,
+         "y" : -21,
+         "z" : 25900
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 6026,
+         "y2" : -5,
+         "z1" : 42548,
+         "x2" : -2271,
+         "y2" : -63,
+         "z2" : 53714,
+         "color" : "#FFF"
+      },
+      {
+         "x1" : -2271,
+         "y1" : -63,
+         "z1" : 53714,
+         "x2" : -1112,
+         "y2" : -134,
+         "z2" : 65270,
+         "color" : "#FFF"
+      },
+      {
+         "x1" : -1112,
+         "y1" : -134,
+         "z1" : 65270,
+         "x2" : 8113,
+         "y2" : -231,
+         "z2" : 60246,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 8113,
+         "y1" : -231,
+         "z1" : 60246,
+         "x2" : 5966,
+         "y2" : 78,
+         "z2" : 53517,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 5966,
+         "y1" : 78,
+         "z1" : 53517,
+         "x2" : 10002,
+         "y2" : 66,
+         "z2" : 47304,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 10002,
+         "y1" : 66,
+         "z1" : 47304,
+         "x2" : 14408,
+         "y2" : 18,
+         "z2" : 44313,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 14408,
+         "y1" : 18,
+         "z1" : 44313,
+         "x2" : 21481,
+         "y2" : -1005,
+         "z2" : 43369,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 21481,
+         "y1" : -1005,
+         "z1" : 43369,
+         "x2" : 23978,
+         "y2" : -620,
+         "z2" : 36818,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 23978,
+         "y1" : -620,
+         "z1" : 36818,
+         "x2" : 18972,
+         "y2" : -73,
+         "z2" : 34279,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 18972,
+         "y1" : -73,
+         "z1" : 34279,
+         "x2" : 18451,
+         "y2" : -95,
+         "z2" : 25533,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 18451,
+         "y1" : -95,
+         "z1" : 25533,
+         "x2" : 11664,
+         "y2" : -1072,
+         "z2" : 23311,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 11664,
+         "y1" : -1072,
+         "z1" : 23311,
+         "x2" : 3752,
+         "y2" : -1916,
+         "z2" : 24029,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 3752,
+         "y1" : -1916,
+         "z1" : 24029,
+         "x2" : 2566,
+         "y2" : -1997,
+         "z2" : 26383,
+         "color" : "#FF0"
+      },
+      {
+         "x1" : 2566,
+         "y1" : -1997,
+         "z1" : 26383,
+         "x2" : 25,
+         "y2" : -21,
+         "z2" : 25900,
+         "color" : "#FFF"
+      }
+   ]
+}
