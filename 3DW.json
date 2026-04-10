@@ -29,7 +29,7 @@
          "z" : 20646
       },
       {
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "Empyrean Straits\nScience Carrier 'Distant Suns'\nSchee Prau AA-A H230\nDark Tides",
          "x" : 5151,
          "y" : -1280,
@@ -43,7 +43,7 @@
          "z" : 23311
       },
 	    {
-         "pin" : "bluecarrier",
+         "pin" : "yellowcarrier",
          "text" : "Arcadian Stream\nScience Carrier 'Fimbulthul'\nCloomaa EA-A e70",
          "x" : 9674,
          "y" : 73,
@@ -57,7 +57,7 @@
          "z" : 25533
       },
 		{
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nFlimbuae CA-A e2",
          "x" : 18265,
          "y" : 31,
@@ -71,7 +71,7 @@
          "z" : 34279
       },
 		{
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "Trojan Belt\nScience Carrier 'Distant Suns'\nSpase ER-B c14-6",
          "x" : 18598,
          "y" : -842,
@@ -85,7 +85,7 @@
          "z" : 36818
       },
 		{
-         "pin" : "bluecarrier",
+         "pin" : "yellowcarrier",
          "text" : "Sagittarius-Carina Arm\nScience Carrier 'Fimbulthul'\nDryeia Byoea AA-A h47",
          "x" : 25585,
          "y" : -841,
@@ -99,7 +99,7 @@
          "z" : 43369
       },
 		{
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "Mare Somnia\nScience Carrier 'Distant Suns'\nBlia Aod QE-Q e5-0\nThe Minions of Morpheus",
          "x" : 25598,
          "y" : 722,
@@ -113,14 +113,14 @@
          "z" : 44313
       },
 		{
-         "pin" : "bluecarrier",
+         "pin" : "yellowcarrier",
          "text" : "The Veils\nScience Carrier 'Fimbulthul'\nPrue Pruae AA-A h29",
          "x" : 16866,
          "y" : -236,
          "z" : 42432
 		},
 		{
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "Formorian Frontier\nScience Carrier 'Distant Suns'\nDrootuia AA-A g1",
          "x" : 3934,
          "y" : -688,
@@ -134,7 +134,7 @@
          "z" : 47304
       },
 		{
-         "pin" : "bluecarrier",
+         "pin" : "yellowcarrier",
          "text" : "Acheron\nScience Carrier 'Fimbulthul'\nSlaiyi DL-P e5-1",
          "x" : 10995,
          "y" : 53,
@@ -148,7 +148,7 @@
          "z" : 53517
       },
  	  {
-         "pin" : "greencarrier",
+         "pin" : "yellowcarrier",
          "text" : "The Abyss\nScience Carrier 'Distant Suns'\nFleckeae SZ-O e6-0",
          "x" : 645,
          "y" : -59,
